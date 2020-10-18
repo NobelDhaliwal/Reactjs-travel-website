@@ -17,6 +17,6 @@ ReactDOM.render(
    </>,
    document.getElementById('root'));
 
-/*2.React comes without routing. 
-And to enable it in our project, we need to add a library named react-router-dom
+/*2. React comes without routing. 
+ And to enable it in our project, we need to add a library named react-router-dom
 pages which we want to show wrapped in BroswerRouter....*/
