@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Reactjs-travel-website/static/css/main.b3420024.chunk.css",
+    "main.js": "/Reactjs-travel-website/static/js/main.938cf4b2.chunk.js",
+    "main.js.map": "/Reactjs-travel-website/static/js/main.938cf4b2.chunk.js.map",
+    "runtime-main.js": "/Reactjs-travel-website/static/js/runtime-main.13de2cde.js",
+    "runtime-main.js.map": "/Reactjs-travel-website/static/js/runtime-main.13de2cde.js.map",
+    "static/css/2.e6ad0f51.chunk.css": "/Reactjs-travel-website/static/css/2.e6ad0f51.chunk.css",
+    "static/js/2.951fbf39.chunk.js": "/Reactjs-travel-website/static/js/2.951fbf39.chunk.js",
+    "static/js/2.951fbf39.chunk.js.map": "/Reactjs-travel-website/static/js/2.951fbf39.chunk.js.map",
+    "index.html": "/Reactjs-travel-website/index.html",
+    "precache-manifest.f3fed091b249cf6b5caef0fc4ddb2016.js": "/Reactjs-travel-website/precache-manifest.f3fed091b249cf6b5caef0fc4ddb2016.js",
+    "service-worker.js": "/Reactjs-travel-website/service-worker.js",
+    "static/css/2.e6ad0f51.chunk.css.map": "/Reactjs-travel-website/static/css/2.e6ad0f51.chunk.css.map",
+    "static/css/main.b3420024.chunk.css.map": "/Reactjs-travel-website/static/css/main.b3420024.chunk.css.map",
+    "static/js/2.951fbf39.chunk.js.LICENSE.txt": "/Reactjs-travel-website/static/js/2.951fbf39.chunk.js.LICENSE.txt",
+    "static/media/3.jpeg": "/Reactjs-travel-website/static/media/3.03b704fa.jpeg",
+    "static/media/4.jpeg": "/Reactjs-travel-website/static/media/4.7372b24d.jpeg",
+    "static/media/Destination.jpeg": "/Reactjs-travel-website/static/media/Destination.b707b22b.jpeg",
+    "static/media/chef2.jpeg": "/Reactjs-travel-website/static/media/chef2.ff72acfd.jpeg",
+    "static/media/deals.jpeg": "/Reactjs-travel-website/static/media/deals.60aa6678.jpeg",
+    "static/media/girl.jpeg": "/Reactjs-travel-website/static/media/girl.2738cc89.jpeg",
+    "static/media/hotels.jpeg": "/Reactjs-travel-website/static/media/hotels.48cd9538.jpeg",
+    "static/media/suitcase.jpeg": "/Reactjs-travel-website/static/media/suitcase.5575033f.jpeg",
+    "static/media/travel.jpeg": "/Reactjs-travel-website/static/media/travel.4cf816c7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13de2cde.js",
+    "static/css/2.e6ad0f51.chunk.css",
+    "static/js/2.951fbf39.chunk.js",
+    "static/css/main.b3420024.chunk.css",
+    "static/js/main.938cf4b2.chunk.js"
+  ]
+}
