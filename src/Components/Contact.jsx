@@ -29,44 +29,76 @@ const Contact = () => {
       <div className=" container contact_div">
         <div className="row">
           <div className="col-md-6 col-10 mx-auto">
+            <form onSubmit={formSubmit}>
+              <div className="mb-3">
+                <label
+                  for="exampleFormControlInput1"
+                  className="form-label">
+                  FullName
+                 </label>
+                <input type="text"
+                  className="form-control"
+                  id="exampleFormControlInput1"
+                  required
+                  onChange={InputEvent}
+                  placeholder="Enter Your First Name"
+                  name="fullname" value={data.fullname}
+                />
+              </div>
 
-            <div class="mb-3">
-              <label for="exampleFormControlInput1" class="form-label">FullName</label>
-              <input type="text" class="form-control" id="exampleFormControlInput1" required
-                placeholder="Enter Your First Name"
-                name="fullname" value={data.fullname}
-              />
-            </div>
+              <div className="mb-3">
+                <label for="exampleFormControlInput1"
+                  className="form-label">
+                  Phone No
+              </label>
+                <input type="number"
+                  className="form-control"
+                  id="exampleFormControlInput1"
+                  required onChange={InputEvent}
+                  placeholder="Mobile no"
+                  name="mobile" value={data.mobile}
+                />
+              </div>
 
-            <div class="mb-3">
-              <label for="exampleFormControlInput1" class="form-label">Phone No</label>
-              <input type="number" class="form-control" id="exampleFormControlInput1" required
-                placeholder="Mobile no"
-                name="mobile" value={data.mobile}
-              />
-            </div>
+              <div className="mb-3">
+                <label for="exampleFormControlInput1"
+                  className="form-label">
+                  Email address
+                </label>
+                <input type="email"
+                  className="form-control"
+                  id="exampleFormControlInput1"
+                  required
+                  placeholder="EMAIL" name="email"
+                  onChange={InputEvent}
+                  value={data.email}
+                />
+              </div>
 
-            <div class="mb-3">
-              <label for="exampleFormControlInput1" class="form-label">Email address</label>
-              <input type="email" class="form-control" id="exampleFormControlInput1" required
-                placeholder="EMAIL" name="email" onChange={InputEvent} value={data.email}
-              />
-            </div>
+              <div className="mb-3">
+                <label for="exampleFormControlTextarea1"
+                  className="form-label">Message</label>
+                <textarea
+                  className="form-control"
+                  id="exampleFormControlTextarea1"
+                  rows="3"
+                  name="msg"
+                  value={data.msg}
+                  onChange={InputEvent}
+                >
+                </textarea>
+              </div>
 
-            <div class="mb-3">
-              <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
-                name="msg" value={data.msg} onChange={InputEvent}
-              >
-              </textarea>
-            </div>
 
-
-            <div class="col-12">
-              <button class="btn btn-outline-success" onSubmit={formSubmit} type="submit">Submit form
-    </button>
-            </div>
-
+              <div className="col-12">
+                <button
+                  className="btn btn-outline-success"
+                  onSubmit={formSubmit}
+                  type="submit">
+                  Submit form
+                      </button>
+              </div>
+            </form>
           </div>
         </div>
       </div>

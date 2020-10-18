@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="container-fluid nav_bg ">
         <div className="row">
           {/* To show our navar in center and it use 10 coloumn */}
-          <div className="col-10  col-md-10  col-xxl-10 mx-auto ">
+          <div className="col-12  col-md-10  col-xxl-10 mx-auto ">
             <nav className="navbar navbar-expand-lg  navbar-light nav_g">
               <div className="container-fluid">
                 {/* So far, our app is only navigable by typing the URLs.

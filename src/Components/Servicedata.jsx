@@ -1,7 +1,6 @@
 import web from "../ImagesWeb/4.jpeg";
 import web2 from "../ImagesWeb/deals.jpeg";
 import web4 from "../ImagesWeb/Destination.jpeg";
-import web5 from "../ImagesWeb/suitcase.jpeg";
 import resort from "../ImagesWeb/hotels.jpeg";
 import web7 from "../ImagesWeb/travel.jpeg";
 import tickets from "../ImagesWeb/chef2.jpeg";
