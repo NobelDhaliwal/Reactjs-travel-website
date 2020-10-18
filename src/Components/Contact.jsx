@@ -42,7 +42,8 @@ const Contact = () => {
                   required
                   onChange={InputEvent}
                   placeholder="Enter Your First Name"
-                  name="fullname" value={data.fullname}
+                  name="fullname" 
+                  value={data.fullname}
                 />
               </div>
 
@@ -56,7 +57,8 @@ const Contact = () => {
                   id="exampleFormControlInput1"
                   required onChange={InputEvent}
                   placeholder="Mobile no"
-                  name="mobile" value={data.mobile}
+                  name="mobile"
+                  value={data.mobile}
                 />
               </div>
 
