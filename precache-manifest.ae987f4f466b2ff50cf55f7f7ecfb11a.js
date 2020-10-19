@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a0191c8a0c717b2bc9427ca0a9f0113",
+    "revision": "fbee3cd97bca9584ed8dda791600d4b3",
     "url": "/Reactjs-travel-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactjs-travel-website/static/css/2.e6ad0f51.chunk.css"
   },
   {
-    "revision": "2b3508ff17144aa55fa6",
+    "revision": "f1c5413ee17667e88dd5",
     "url": "/Reactjs-travel-website/static/css/main.b3420024.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactjs-travel-website/static/js/2.951fbf39.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b3508ff17144aa55fa6",
-    "url": "/Reactjs-travel-website/static/js/main.938cf4b2.chunk.js"
+    "revision": "f1c5413ee17667e88dd5",
+    "url": "/Reactjs-travel-website/static/js/main.17d8161c.chunk.js"
   },
   {
     "revision": "fb573ff23a2c4310f343",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "48cd9538e4d4d31f12c6e0d54039e491",
     "url": "/Reactjs-travel-website/static/media/hotels.48cd9538.jpeg"
-  },
-  {
-    "revision": "5575033f82030cb4ec7604e36778163b",
-    "url": "/Reactjs-travel-website/static/media/suitcase.5575033f.jpeg"
   },
   {
     "revision": "4cf816c70b9e676ca47efbb2610c478a",
