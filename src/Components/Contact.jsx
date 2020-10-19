@@ -8,6 +8,7 @@ const Contact = () => {
     email: " ",
     msg: " ",
   });
+//   onChange eveny handler functio
   const InputEvent = (event) => {
     const { name, value } = event.target; //object destructuring
     setData((preVal) => {
