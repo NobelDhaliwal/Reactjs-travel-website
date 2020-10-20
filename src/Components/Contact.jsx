@@ -96,7 +96,7 @@ const Contact = () => {
               <div className="col-12">
                 <button
                   className="btn btn-outline-success"
-                  onSubmit={formSubmit}
+                  onClick={formSubmit}
                   type="submit">
                   Submit form
                       </button>
